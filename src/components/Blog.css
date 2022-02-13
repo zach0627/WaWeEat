@@ -7,10 +7,14 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    border: 1px solid yellow;
-    background-color: rgb(174, 111, 247);
-    margin-top: 2rem;
+    border: 1px solid rgb(255 250 223);
+    background-color: rgb(255 250 223);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2em;
+    color: rgb(94, 93, 93);
 }
+
 
 .blog__date {
     font-size: 0.8rem;
@@ -19,6 +23,7 @@
     align-self: flex-end;
     margin-bottom: 0.5rem;
     padding-left: 1rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
 
 .blog__container {
@@ -69,9 +74,8 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        width: 80%;
         margin: 0 auto;
-        margin-top: 2rem;
+        
     }
 
     .blog__wrapper {     
