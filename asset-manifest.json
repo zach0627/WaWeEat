@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WaWeEat/static/css/main.78f6a55e.chunk.css",
+    "main.css": "/WaWeEat/static/css/main.18277c63.chunk.css",
     "main.js": "/WaWeEat/static/js/main.31b61906.chunk.js",
     "main.js.map": "/WaWeEat/static/js/main.31b61906.chunk.js.map",
     "runtime-main.js": "/WaWeEat/static/js/runtime-main.fb6591c5.js",
@@ -8,7 +8,7 @@
     "static/js/2.c135fcef.chunk.js": "/WaWeEat/static/js/2.c135fcef.chunk.js",
     "static/js/2.c135fcef.chunk.js.map": "/WaWeEat/static/js/2.c135fcef.chunk.js.map",
     "index.html": "/WaWeEat/index.html",
-    "static/css/main.78f6a55e.chunk.css.map": "/WaWeEat/static/css/main.78f6a55e.chunk.css.map",
+    "static/css/main.18277c63.chunk.css.map": "/WaWeEat/static/css/main.18277c63.chunk.css.map",
     "static/js/2.c135fcef.chunk.js.LICENSE.txt": "/WaWeEat/static/js/2.c135fcef.chunk.js.LICENSE.txt",
     "static/media/barwei.jpeg": "/WaWeEat/static/media/barwei.c80038c8.jpeg",
     "static/media/chickenwar.jpeg": "/WaWeEat/static/media/chickenwar.77733079.jpeg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.fb6591c5.js",
     "static/js/2.c135fcef.chunk.js",
-    "static/css/main.78f6a55e.chunk.css",
+    "static/css/main.18277c63.chunk.css",
     "static/js/main.31b61906.chunk.js"
   ]
 }
