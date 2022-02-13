@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WaWeEat/static/css/main.31c7756f.chunk.css",
-    "main.js": "/WaWeEat/static/js/main.a9df0d2e.chunk.js",
-    "main.js.map": "/WaWeEat/static/js/main.a9df0d2e.chunk.js.map",
+    "main.js": "/WaWeEat/static/js/main.31b61906.chunk.js",
+    "main.js.map": "/WaWeEat/static/js/main.31b61906.chunk.js.map",
     "runtime-main.js": "/WaWeEat/static/js/runtime-main.fb6591c5.js",
     "runtime-main.js.map": "/WaWeEat/static/js/runtime-main.fb6591c5.js.map",
     "static/js/2.c135fcef.chunk.js": "/WaWeEat/static/js/2.c135fcef.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.fb6591c5.js",
     "static/js/2.c135fcef.chunk.js",
     "static/css/main.31c7756f.chunk.css",
-    "static/js/main.a9df0d2e.chunk.js"
+    "static/js/main.31b61906.chunk.js"
   ]
 }
