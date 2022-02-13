@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WaWeEat/static/css/main.31c7756f.chunk.css",
+    "main.js": "/WaWeEat/static/js/main.a9df0d2e.chunk.js",
+    "main.js.map": "/WaWeEat/static/js/main.a9df0d2e.chunk.js.map",
+    "runtime-main.js": "/WaWeEat/static/js/runtime-main.fb6591c5.js",
+    "runtime-main.js.map": "/WaWeEat/static/js/runtime-main.fb6591c5.js.map",
+    "static/js/2.c135fcef.chunk.js": "/WaWeEat/static/js/2.c135fcef.chunk.js",
+    "static/js/2.c135fcef.chunk.js.map": "/WaWeEat/static/js/2.c135fcef.chunk.js.map",
+    "index.html": "/WaWeEat/index.html",
+    "static/css/main.31c7756f.chunk.css.map": "/WaWeEat/static/css/main.31c7756f.chunk.css.map",
+    "static/js/2.c135fcef.chunk.js.LICENSE.txt": "/WaWeEat/static/js/2.c135fcef.chunk.js.LICENSE.txt",
+    "static/media/barwei.jpeg": "/WaWeEat/static/media/barwei.c80038c8.jpeg",
+    "static/media/chickenwar.jpeg": "/WaWeEat/static/media/chickenwar.77733079.jpeg",
+    "static/media/doulo.jpg": "/WaWeEat/static/media/doulo.9b76e3cf.jpg",
+    "static/media/foodcover.jpeg": "/WaWeEat/static/media/foodcover.cdd5cbfb.jpeg",
+    "static/media/ghost.jpg": "/WaWeEat/static/media/ghost.4d26901c.jpg",
+    "static/media/HeroSection.css": "/WaWeEat/static/media/img-section.7ce7205d.jpg",
+    "static/media/mamajun.jpg": "/WaWeEat/static/media/mamajun.8288514d.jpg",
+    "static/media/upgood.jpg": "/WaWeEat/static/media/upgood.7a742e32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb6591c5.js",
+    "static/js/2.c135fcef.chunk.js",
+    "static/css/main.31c7756f.chunk.css",
+    "static/js/main.a9df0d2e.chunk.js"
+  ]
+}
